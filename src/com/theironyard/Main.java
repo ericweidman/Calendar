@@ -3,6 +3,6 @@ package com.theironyard;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("MY CODE IS THE BEST CODE.");
     }
 }
